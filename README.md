@@ -10,4 +10,4 @@ Descricao do projeto: https://github.com/digitalinnovationone/trilha-java-basico
 
 ### Folder Structure
 
-Alem das pastas / arquivos padrao Java, esse projeto contem a classe ContaTerminal, conforme descricao do projeto
+Alem das pastas / arquivos padrao Java, esse projeto contem a classe Contador.java, conforme descricao do projeto
